@@ -1,0 +1,88 @@
+c:\users\rohit sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+C:\Users\Rohit Sharma\documents\visual studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form6.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form6.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form7.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form10.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form11.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form12.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form8.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form9.resources
+C:\Users\Saurabh\Documents\Visual Studio 2012\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form13.resources
+C:\Users\Saurabh\Desktop\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+C:\Users\Saurabh\Desktop\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Saurabh\Desktop\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Saurabh\Desktop\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form10.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form11.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form12.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form13.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form6.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form7.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form8.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form9.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\Work!!\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form10.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form11.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form12.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form13.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form5.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form6.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form7.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form8.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form9.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\Work!!\worksss\RDBMS project\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\Suraj MS\Downloads\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\Suraj MS\Downloads\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\Suraj MS\Downloads\college khabar\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
